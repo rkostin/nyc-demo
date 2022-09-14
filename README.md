@@ -57,14 +57,6 @@ Wurman: hierarchy --> broad to narrow scope
    2. geography
    3. characteristics
 
-
-
-1. Manhattan, the most densely populated
-2. Brooklyn, the most populated
-3. Queens, the largest in square miles
-4. The Bronx, the northernmost
-5. Staten Island, the least populated
-
 ## Layout
 
 The title, website menu, and footer are inconsequential and simply need to be out of the way, in typical Z-pattern positions as appropriate.  
