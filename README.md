@@ -75,3 +75,6 @@ Embellishments - especially lines (borders) can reflect the deco style that is w
 ### Typography
 
 Since the content delves into a lot of historical facts about the City, you can let that inform font choices.  Google Images: "New Yorker" to see the look and style of the New Yorker magazine.  You can't get that font for free, but you can find one that is reminiscent of it(...this is just a suggestion).  In any case, typefaces should use serifs for either headings or regular text, if not both.
+
+----
+Hosted copy on Banjo [NYC Website](https://people.rit.edu/rmkics/iste240/nyc-demo/)
