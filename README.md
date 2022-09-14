@@ -12,18 +12,19 @@ The content about New York City is divided into five sections, one for each boro
 
 ### Classes (triples)
 
-- Each city...
+- A city...
   - has a name (text)
   - has a city seal (image)
   - has an introduction (text)
   - has an "about" description (text)
   - has a history (text)
   - has population and land area statistics about each borough (data table)
-- Each borough...
-  - has a name (text)
-  - has a representative photo (image 300 x 225px)
-  - has geography information (text)
-  - has characteristic information (text)
+  - is made-up of geographic areas/sub-divisions (boroughs)
+  - Each geographic area...
+    - has a name (text)
+    - has a representative photo (image 300 x 225px)
+    - has geography information (text)
+    - has characteristic information (text)
 
 ## Taxonomy
 
