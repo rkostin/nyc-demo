@@ -6,7 +6,9 @@ This is a six page website about New York City.
 
 The content about New York City is divided into five sections, one for each borough, and then some general information about the the city itself on the homepage.
 
-The goal of the website is to inform website visitors about the city by providing facts about each borough.
+**The goal of the website** is to inform website visitors about the city by providing facts about each borough.
+
+**Domain:** New York City statistical information and interesting facts
 
 ### Classes (triples)
 
@@ -25,7 +27,9 @@ The goal of the website is to inform website visitors about the city by providin
 
 ## Taxonomy
 
-Each of the five sub-pages present facts about one of the borough's **geography** and **characteristics**, along with a landscape image that typifies what people usually think of in relation to that borough.  
+A city the size of New York as geographic areas known as **boroughs**.  
+
+Each borough relates to facts about **geography** and **characteristics**, along with a **skyline** image that typifies what people usually think of in relation to that borough.  
 
 The home page, about the overall city itself, presents a lot of statistics and points of interest in terms of its current size and population, as well as some of the city's history.
 
@@ -38,7 +42,21 @@ The prose of the website is factual and concise.
 
 ## Choreography
 
-Besides the home page which is an obvious choice as a starting point for the website because of its introductory content, the subpages are a random presentation in order of what the author things are most interesting:
+Since the overall content of the New York City website is factual information, the order is primary focused on broad topics first, followed by more and more specific information.
+
+Wurman: hierarchy --> broad to narrow scope
+
+1. The user is introduced to a city first
+   1. most general information: name, seal, and introductory content (Introduction, About)
+   2. followed by the history of the city (History)
+   3. followed by statistics, broken down by borough, which is a good lead-in to the subpages (Population)
+2. The user is presented each borough of the city, ordered by population (navigation)
+3. The user is introduced to each borough
+   1. borough name and representative photo
+   2. geography
+   3. characteristics
+
+
 
 1. Manhattan, the most densely populated
 2. Brooklyn, the most populated
