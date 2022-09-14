@@ -37,6 +37,7 @@ The prose of the website is factual and concise.
 
 - city
   - borough
+    - skyline
     - geography
     - characteristics
 
